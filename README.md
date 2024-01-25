@@ -55,9 +55,10 @@ THREADED BINARY TREE
 5-1:one way threaded binary tree
 5-2:two way threaded binary tree
 
-threaded tree traversal
-expression tree
+EXPRESSION TREE
+6-1:expression binary tree using inorder
+6-2:expression binary tree using preorder
+6-3:expression binary tree using postorder
 
-graph
-DFS
-BFS
+GRAPH
+7-1:graph with DFS and BFS
