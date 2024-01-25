@@ -41,16 +41,15 @@ LINKED LIST
 3-6:inverting single linked list
 #######################3-7:concatenate two linked list####################
 
-binary tree
-
-binary tree traversal
-preorder traversal (recursive and non recursive)
-inorder traversal (recursive and non recursive)
-postorder traversal (recursive and non recursive)
-level order traversal
-
+4-1:BST(insertion,deletion)
+4-2:BST(recursive traversal)
+4-3:BST(non-recursive traversal)
+4-4:BST(level traversal,searching)
+4-5:BST(depth,diameter)
+############################
 copy a tree
 check whether two trees are equal or not or check the equality of two trees
+##############################
 
 Threaded binary tree
 ->one way threaded binary tree
