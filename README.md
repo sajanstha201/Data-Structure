@@ -1,14 +1,15 @@
+STACK
 1-1:stack
 1-2:stack using queue
 1-3:stack using linked list
 ######################1-4:multiple stack############################
 
-Expression Evaluation
+EXPRESSION EVALUATION
 1-5:postfix evaluation
 1-6:prefix evaluation
 
 
-Expression Conversion
+EXPRESSION CONVERSION
 1-7:infix to prefix
 1-8:infix to postfix
 1-9:prefix to infix
@@ -17,7 +18,7 @@ Expression Conversion
 1-12:postfix to prefix
 
 
-
+QUEUE
 2-1:queqe
 2-2:queque using stack pop efficient
 2-3;quequ using stack push efficient
@@ -30,15 +31,15 @@ TYPES OF QUEUE
 2-8:double ended queue 
 2-9:multiple queue
 
+LINKED LIST
+3-1:single linked list
+3-2:doubly linked list
+3-3:circular linked list
+3-4:doubly circular linked list
 
-single linked list
-doubly linked list
-circular linked list
-doubly circular linked list
-
-polynomial additoin/subtraction using linked list
-inverting single linked list
-concatenate two linked list
+3-5:polynomial additoin/subtraction using linked list
+3-6:inverting single linked list
+#######################3-7:concatenate two linked list####################
 
 binary tree
 
