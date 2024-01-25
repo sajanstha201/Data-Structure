@@ -3,29 +3,32 @@
 1-3:stack using linked list
 ######################1-4:multiple stack############################
 
-Expression
+Expression Evaluation
 1-5:postfix evaluation
-prefix evaluation
-1.4:prefix to postfix
-1.5:postfix to prefix
-1.6:prefix to infix
-1.7:infix to prefix
-1.8:postfix to infix
-1.9:infix to postfix
+1-6:prefix evaluation
 
-2.1:queqe
-2.2:queque using stack
-queue using linked list
 
-types of queue
-ordinary queue
-circular queue
-priority queue
-->ascending priority queue
-->descending priority queue
-input/output restricted queue (double ended queue)
-double ended queue using linked list
-multiple queue
+Expression Conversion
+1-7:infix to prefix
+1-8:infix to postfix
+1-9:prefix to infix
+1-10:prefix to postfix
+1-11:postfix to infix
+1-12:postfix to prefix
+
+
+
+2-1:queqe
+2-2:queque using stack pop efficient
+2-3;quequ using stack push efficient
+2-4:queue using linked list
+
+TYPES OF QUEUE
+2-5:circular queue
+2-6:ascending priority queue
+2-7:descending priority queue
+2-8:double ended queue 
+2-9:multiple queue
 
 
 single linked list

@@ -38,7 +38,7 @@ int operation(int a,int b,char c){
 }
 void main(){
     char exp[100],i;
-    printf("Enter expression: ");
+    printf("Enter postfix expression for evaluation: ");
     scanf("%s",exp);
     for(i=0;i<strlen(exp);i++){
         if(exp[i]=='+'||exp[i]=='-'||exp[i]=='*'||exp[i]=='/'||exp[i]=='$'){
