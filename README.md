@@ -51,22 +51,12 @@ copy a tree
 check whether two trees are equal or not or check the equality of two trees
 ##############################
 
-Threaded binary tree
-->one way threaded binary tree
-    ->right threaded binary tree
-    ->left threaded binary tree
-->two way threaded binary tree
+THREADED BINARY TREE
+5-1:one way threaded binary tree
+5-2:two way threaded binary tree
 
 threaded tree traversal
 expression tree
-binary search tree
-insertion and deletion in BST
-searching element in bst
-traversal in bst
-find the largest and smallest element in bst
-find the diameter of bst
-find the depth or height of bst
-find the depth or height of node of bst
 
 graph
 DFS
